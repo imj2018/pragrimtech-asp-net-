@@ -3,3 +3,15 @@
 ################################################################################
 
 /3 ViewStateDemo/ViewStateDemo/bin
+/3 ViewStateDemo/ViewStateDemo/obj
+/3 ViewStateDemo/ViewStateDemo/Properties
+/3 ViewStateDemo/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/4 ApplicationEventsDemo/ApplicationEventsDemo/bin
+/4 ApplicationEventsDemo/ApplicationEventsDemo/obj/Debug
+/4 ApplicationEventsDemo/ApplicationEventsDemo/obj/Release
+/4 ApplicationEventsDemo/ApplicationEventsDemo/Properties
+/4 ApplicationEventsDemo/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/5 StateManagementDemo/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/5 StateManagementDemo/StateManagementDemo/bin
+/5 StateManagementDemo/StateManagementDemo/obj
+/5 StateManagementDemo/StateManagementDemo/Properties
