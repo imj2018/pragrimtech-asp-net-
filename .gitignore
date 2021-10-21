@@ -23,3 +23,6 @@
 /ControlEvents/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
 /IsPostBackProperty/IsPostBackProperty
 /IsPostBackProperty/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/TextBoxControl/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/TextBoxControl/TextBoxControl/bin
+/TextBoxControl/TextBoxControl/obj/Debug
